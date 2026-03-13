@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fafafa;
+}
+.post {
+    width: 400px;
+    border: 1px solid #dbdbdb;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+
+.post-header b {
+    font-size: 1.1em;
+}
+
+.post-img img {
+    width: 100%;        
+    height: 400px;     
+    object-fit: cover;  
+    display: block;
+}
+
+.post-footer {
+    padding: 10px;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "abarboza7-html-hello-instagram",
+  "version": "1.0.0",
+  "description": "The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "start": "python3 -m http.server 3000" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4GeeksAcademy/ABarboza7-html-hello-instagram.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/4GeeksAcademy/ABarboza7-html-hello-instagram/issues"
+  },
+  "homepage": "https://github.com/4GeeksAcademy/ABarboza7-html-hello-instagram#readme"
+}
